@@ -67,7 +67,7 @@ print(decoded_array)
 
 After you have transformed your predictions into an array of letters, please pickle your predictions and label the file using you and your teammate initials seperated by an underscore followed by '_predictions.pkl'. 
 
-> For example, if Erin and Joél were a team their pickled predictions would be called `'eh_jc_predictions.pkl'`.
+> For example, if Max and Greg were a team their pickled predictions would be called `'mb_gd_predictions.pkl'`.
 
 # Validate and Submit Your Predictions
 
@@ -77,11 +77,9 @@ Once you have saved your predictions to file, please open the [validate_predicti
 
 #### Submit
 
-Once you pass all of the tests in the validation notebook
-1. `git add` your bakeoff notebook and your predictions
-2. `git commit`
-3. `git push` your work to your fork.
-4. Navigate to the [NLP Bakeoff Canvas Assignment](https://learning.flatironschool.com/courses/605/assignments/48829) and submit a link to your fork.
+Once you pass all of the tests in the validation notebook send you predictions to the thread on Slack. 
+
+Feel free to also push your work to your fork, and share your repo with the group.
 
 ------
 
